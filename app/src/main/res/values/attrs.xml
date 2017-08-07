@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleButtonView">
+        <attr name="cbv_color" format="color"/>
+        <attr name="cbv_pressedRingWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
